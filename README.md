@@ -33,3 +33,17 @@ This Project scrapes the song lyrics from the site genius.com
 ```
   python interface.py
 ```
+* A GUI interface will be shown like this - 
+
+![Screenshot (132)](https://user-images.githubusercontent.com/37475805/59906106-7d654380-9425-11e9-8a16-85f790088907.png)
+
+* After that we will be logged in - 
+
+
+![Screenshot (133)](https://user-images.githubusercontent.com/37475805/59906270-f1075080-9425-11e9-869d-5b611bf659b5.png)
+
+* Then with the help of selenium we will be navigated to genius.com site and lyrics will be scraped using BeautifulSoup
+
+![Screenshot (134)](https://user-images.githubusercontent.com/37475805/59906364-33309200-9426-11e9-9f98-58e9a3332026.png)
+
+* The Scraped Lyrics will be stored in lyrics.txt file.
